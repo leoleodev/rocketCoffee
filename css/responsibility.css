@@ -3,6 +3,9 @@
     html{
         font-size: 93.75%;
     }
+    body{
+        width: 90vw;
+    }
 }
 
 @media(max-width: 720px){
